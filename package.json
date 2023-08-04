@@ -1,7 +1,7 @@
 {
-  "name": "Agusbot",
+  "name": "XRTZD-BOT",
   "version": "1.0.0",
-  "description": "Termux whatsapp bot",
+  "description": "PANEL WHATSAPP BOT",
   "main": "index.js",
   "directories": {
     "lib": "lib"
