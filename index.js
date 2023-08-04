@@ -13,7 +13,7 @@ const menu = require("./lib/menu.js")
 
 //Setting
 
-const apivhtear = 'Apikey vhtear';
+const apivhtear = 'PREMIUM';
 const apibarbar = 'Apikey mhankbarbar';
 const BotName = 'VVIPINDO BOT'; 
 const instagram = 'agus_alnsyh71- kaelMk_'; 
